@@ -1,0 +1,32 @@
+.q1 {
+    border: 10px solid green;
+    width: 60px;
+}
+.q2 {
+    border: 10px dashed green;
+    width: 60px;
+}
+.q3 {
+    border: 10px dotted green;
+    width: 60px;
+}
+.q4 {
+    border: 10px double green;
+    width: 60px;
+}
+.q5 {
+    border: 10px groove green;
+    width: 60px;
+}
+.q7 {
+    border: 10px ridge green;
+    width: 60px;
+}
+.q8 {
+    border: 10px inset green;
+    width: 60px;
+}
+.q9 {
+    border: 10px outset green;
+    width: 60px;
+}
